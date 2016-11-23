@@ -2,3 +2,5 @@ input/*
 !input/.gitkeep
 exported/*
 !exported/.gitkeep
+scripts/.ipynb_checkpoints
+scripts/__pycache__
