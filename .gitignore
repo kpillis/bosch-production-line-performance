@@ -4,3 +4,4 @@ exported/*
 !exported/.gitkeep
 scripts/.ipynb_checkpoints
 scripts/__pycache__
+submission.csv
