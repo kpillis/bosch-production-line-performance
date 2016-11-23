@@ -1,0 +1,7 @@
+# bosch-production-line-performance
+Data Science Project for identifying faulty products on Bosch's production lines.
+
+##How to evaluate
+
+First run the trainer notebook. After it has finished, run the tester notebook. 
+The final result should appear in 'submission.csv'
