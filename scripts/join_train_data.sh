@@ -1,5 +1,6 @@
 #!/bin/bash
 cd ../input
+rm -f tmp.csv
 FILES=../workdir/train_num*.csv
 i=0
 for f in $FILES
